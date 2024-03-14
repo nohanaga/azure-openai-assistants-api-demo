@@ -3,8 +3,6 @@ Tags: [openai, assistant-api]
 
 # OpenAI Assistant API with Chainlit
 
-![OpenAI Assistant](https://github.com/nohanaga/azure-openai-assistants-api-demo)
-
 This repository will integrate OpenAI's Assistant API and Chainlit to verify the operation of the travel assistant developed [here](https://github.com/nohanaga/azure-openai-assistants-api-demo).
 
 ## Features
